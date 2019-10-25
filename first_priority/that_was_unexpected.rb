@@ -1,6 +1,6 @@
 class Person
   attr_accessor :name
-
+binding.pry
   def initialize(name)
     @name = name
   end
